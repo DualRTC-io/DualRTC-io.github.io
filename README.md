@@ -1,6 +1,6 @@
-# SungjungKim
+# DualRTC
 
-[![Build Status](https://jenkins.gedmin.as/job/check-manifest/badge/icon)](https://sungjungkim.github.io)
+[![Build Status](https://jenkins.gedmin.as/job/check-manifest/badge/icon)](https://dualrtc-io.github.io/)
 
 Try, Try, Try.
 

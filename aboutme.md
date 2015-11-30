@@ -4,7 +4,12 @@ title: DualRTC
 subtitle:
 ---
 
-Team.DualRTC
+### Team.DualRTC
 
-| Sungjung Kim | Sangsoo Jeon | Joochan Lee | Boyoung Choi |
-| [@SungjungKim](https://github.com/SungjungKim) | [@zerg0088](https://github.com/zerg0088) | [@juchanei](https://github.com/juchanei) | [@lilly2232](https://github.com/lilly2232) |
+* [SungjungKim](https://github.com/SungjungKim)
+
+* [Sangsoo Jeon](https://github.com/zerg0088)
+
+* [Joochan Lee](https://github.com/juchanei)
+
+* [Boyoung Choi](https://github.com/lilly2232)
