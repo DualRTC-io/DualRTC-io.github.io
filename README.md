@@ -1,2 +1,9 @@
-# DualRTC-io.github.io
-About DualRTC.io : http://DualRTC-io.github.io/
+# SungjungKim
+
+[![Build Status](https://jenkins.gedmin.as/job/check-manifest/badge/icon)](https://sungjungkim.github.io)
+
+Try, Try, Try.
+
+# License
+The MIT License. Please see [the license file](LICENSE) for more information.
+Cover template by [Dean Attali](https://github.com/daattali/daattali.github.io).</p>
